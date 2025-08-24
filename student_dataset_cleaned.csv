@@ -1,0 +1,301 @@
+Student ID,Subject Grade,Study Hours per Day,Lecture Attendance,Assignment Completion on Time,CGPA / GPA,Note-Taking Method,Study Schedule,Best Study Method
+1,A,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+2,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+3,B,1 - 2 hours,Often (75 - 99%),Always (100%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+4,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+5,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+6,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+7,A-,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+8,C,Less than 1 hour,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+9,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+10,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+11,A,2 - 4 hours,Often (75 - 99%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+12,C-,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+13,B,1 - 2 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Attending revision classes or extra tutorials
+14,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+15,B+,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+16,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,Reading class slides and textbooks only
+17,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+18,A,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+19,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+20,C,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.0 – 2.5,I rely only on class slides,I study randomly most of the time,No specific method – varies each time
+21,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+22,B+,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+23,C,1 - 2 hours,Sometimes(50 - 74%),Rarely (25 - 49%),2.0 – 2.5,I mostly rely on class slides,I do not follow any schedule at all,"Using online resources (e.g., YouTube, MOOCs)"
+24,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+25,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+26,Below C-,Less than 1 hour,Never(0%),Rarely (25 - 49%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+27,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+28,B,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+29,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+30,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+31,B-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+32,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+33,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+34,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+35,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+36,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+37,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+38,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+39,A-,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+40,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+41,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+42,C-,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+43,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+44,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+45,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+46,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+47,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+48,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+49,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+50,C-,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+51,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+52,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+53,C,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+54,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+55,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+56,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+57,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+58,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+59,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+60,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+61,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+62,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+63,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+64,C,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+65,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+66,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+67,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+68,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+69,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+70,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+71,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+72,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+73,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+74,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+75,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+76,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+77,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+78,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+79,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+80,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+81,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+82,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+83,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+84,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+85,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+86,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+87,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+88,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+89,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+90,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+91,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+92,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+93,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+94,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+95,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+96,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+97,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+98,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+99,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+100,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+101,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+102,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+103,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+104,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+105,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+106,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+107,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+108,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+109,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+110,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+111,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+112,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+113,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+114,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+115,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+116,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+117,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+118,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+119,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+120,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+121,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+122,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+123,C-,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+124,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+125,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+126,Below C-,Less than 1 hour,Never(0%),Rarely (25 - 49%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+127,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+128,B,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+129,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+130,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+131,B-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+132,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+133,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+134,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+135,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+136,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+137,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+138,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+139,A-,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+140,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+141,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+142,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+143,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+144,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+145,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+146,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+147,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+148,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+149,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+150,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+151,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+152,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+153,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+154,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+155,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+156,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+157,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+158,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+159,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+160,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+161,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+162,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+163,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+164,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+165,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+166,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+167,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+168,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+169,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+170,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+171,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+172,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+173,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+174,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+175,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+176,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+177,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+178,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+179,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+180,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+181,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+182,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+183,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+184,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+185,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+186,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+187,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+188,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+189,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+190,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+191,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+192,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+193,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+194,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+195,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+196,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+197,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+198,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+199,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+200,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+201,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+202,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+203,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+204,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+205,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+206,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+207,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+208,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+209,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+210,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+211,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+212,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+213,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+214,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+215,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+216,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+217,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+218,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+219,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+220,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+221,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+222,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+223,C-,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+224,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+225,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+226,Below C-,Less than 1 hour,Never(0%),Rarely (25 - 49%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+227,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+228,B,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+229,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+230,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+231,B-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+232,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+233,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+234,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+235,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+236,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+237,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+238,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+239,A-,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+240,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+241,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+242,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+243,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+244,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+245,A,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+246,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+247,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+248,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+249,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+250,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+251,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+252,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+253,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+254,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+255,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+256,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+257,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+258,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+259,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+260,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+261,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+262,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+263,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+264,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+265,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+266,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+267,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+268,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+269,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+270,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+271,A-,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Studying alone (self-study)
+272,C,1 - 2 hours,Rarely (25 - 49%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+273,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,"Using online resources (e.g., YouTube, MOOCs)"
+274,C-,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+275,A+,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+276,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+277,C+,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Studying in groups
+278,A-,2 - 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+279,B-,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Attending revision classes or extra tutorials
+280,C,Less than 1 hour,Rarely (25 - 49%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+281,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+282,B+,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I take notes and refer to slides equally,I always follow a fixed study schedule,Practicing with past papers or questions
+283,C-,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+284,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying in groups
+285,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+286,Below C-,Less than 1 hour,Very rarely (1 - 24%),Sometimes (50 - 74%),Below 2.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+287,C+,1 - 2 hours,Often (75 - 99%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,Reading class slides and textbooks only
+288,B-,2 - 4 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+289,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+290,C,Less than 1 hour,Sometimes(50 - 74%),Sometimes (50 - 74%),2.0 – 2.5,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+291,B,1 - 2 hours,Sometimes(50 - 74%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
+292,A,2 - 4 hours,Often (75 - 99%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Attending revision classes or extra tutorials
+293,B+,2 - 4 hours,Always(100%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I usually follow a schedule but adjust it occasionally,Studying alone (self-study)
+294,C-,Less than 1 hour,Rarely (25 - 49%),Sometimes (50 - 74%),2.5 – 3.0,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+295,A-,more than 4 hours,Always(100%),Always (100%),Above 3.5,I mostly take my own notes,I always follow a fixed study schedule,Practicing with past papers or questions
+296,B,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),3.0 – 3.5,I take notes and refer to slides equally,I study randomly most of the time,Studying alone (self-study)
+297,C+,1 - 2 hours,Sometimes(50 - 74%),Sometimes (50 - 74%),2.5 – 3.0,I mostly rely on class slides,I study randomly most of the time,"Using online resources (e.g., YouTube, MOOCs)"
+298,Below C-,Less than 1 hour,Very rarely (1 - 24%),Rarely (25 - 49%),2.0 – 2.5,I rely only on class slides,I do not follow any schedule at all,No specific method – varies each time
+299,A,2 - 4 hours,Always(100%),Always (100%),3.0 – 3.5,I mostly take my own notes,I usually follow a schedule but adjust it occasionally,Practicing with past papers or questions
+300,B-,1 - 2 hours,Often (75 - 99%),Often (75 - 99%),2.5 – 3.0,I take notes and refer to slides equally,I study randomly most of the time,Studying in groups
